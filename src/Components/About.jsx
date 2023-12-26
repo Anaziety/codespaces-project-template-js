@@ -16,26 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Webinar Room.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "UCP Webinar Room";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi,\nI'm Anam, a coding enthusiast with a dash of caffeine-fueled wit!\nWeb Dev: Journey with me as I craft web wonders with HTML and CSS.\nAI/ML: From AI to ML, I'm decoding the future one algorithm at a time.\nStay tuned, because bugs and bytes, I'm embracing them all!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Microsoft Learn Student Ambassador",
+  "Machine Learning Engineer",
+  "Compputer Science Student",
+  "Marketing Enthusiast",
+  "Blog Writer",
   "Graphic design",
 ];
 
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Meh? A passionate and dynamic Computer Science student with a flair for creativity and a love for exploring the vast world of technology. I believe that in the intersection of art and innovation lies the potential to create something truly magical!\nWhat I Do? As a Computer Science enthusiast, I immerse myself in the realms of coding, problem-solving, and all things tech. My passion for understanding the latest trends and technologies drives me to excel in this ever-evolving field.";
 
 const About = () => {
   return (
